@@ -21,6 +21,7 @@ I'm Fábio and this is some things about me.
 <div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>
 </div>  
+<br />
 
 - Intend to learn:
 
