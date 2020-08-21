@@ -18,9 +18,6 @@ I'm Fábio and this is some things about me.
 <div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="20"/> <b>Node.js</b>
 </div>
-<div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>
-</div>  
 <br />
 
 - Intend to learn:
@@ -34,6 +31,9 @@ I'm Fábio and this is some things about me.
 <div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/HHnyWDd/flutter-logo-5086-DD11-C5-seeklogo-com.webp" height="20"/> <b>Flutter</b>
 </div>
+<div>
+  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>
+</div>  
 <br />
 
 <details>
