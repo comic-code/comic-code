@@ -32,7 +32,7 @@ I'm Fábio and this is some things about me.
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/HHnyWDd/flutter-logo-5086-DD11-C5-seeklogo-com.webp" height="20"/> <b>Flutter</b>
 </div>
 <div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>
+  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://www.honext.io/static/images/next_logo.png" width="20"/> <b>Next.js</b>
 </div>  
 <br />
 
