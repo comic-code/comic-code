@@ -26,7 +26,7 @@ I'm Fábio and this is some things about me.
 - Intend to learn:
 
 <div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="20"/> <b>Next.js</b>
+  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="20"/> <b>Next.js</b>
 </div>  
 <br />
 
