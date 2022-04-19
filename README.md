@@ -13,6 +13,9 @@ I'm Fábio and this is some things about me.
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/cgfb70b/asdd.png" width="20"/> <b>JavaScript</b>
 </div> 
 <div>
+  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>
+</div>
+<div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React and React Native</b>
 </div> 
 <div>
@@ -23,16 +26,7 @@ I'm Fábio and this is some things about me.
 - Intend to learn:
 
 <div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>
-</div>
-<div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://cdn.freebiesupply.com/logos/thumbs/2x/dart-logo.png" width="20"/> <b>Dart</b>
-</div>
-<div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://i.ibb.co/HHnyWDd/flutter-logo-5086-DD11-C5-seeklogo-com.webp" height="20"/> <b>Flutter</b>
-</div>
-<div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://www.honext.io/static/images/next_logo.png" width="20"/> <b>Next.js</b>
+  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="20"/> <b>Next.js</b>
 </div>  
 <br />
 
