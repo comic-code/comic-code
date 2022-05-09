@@ -27,8 +27,7 @@ I'm Fábio and this is some things about me.
 
 <div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="20"/> <b>Next.js</b>
-</div>  
-<br />
+</div>
 <div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="20"/> <b>Tailwind CSS</b>
 </div>  
