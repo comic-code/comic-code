@@ -29,8 +29,7 @@ I'm Fábio and this is some things about me.
 - Intend to learn:
 
 <div>
-  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png
-" width="20"/> <b>Firebase</b>
+  <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" width="20"/> <b>Firebase</b>
 </div>
 <div>
   <img style="margin-left: 4px; margin-right: 8px; border-radius: 3px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="20"/> <b>Tailwind CSS</b>
