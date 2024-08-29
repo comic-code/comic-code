@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/comico/)](https://www.linkedin.com/in/comico/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bitotajima@gmail.com)](mailto:bitotajima@gmail.com)
-![GitHub comicodarko](https://img.shields.io/github/followers/comicodarko?label=follow&style=social)
+![GitHub comic-code](https://img.shields.io/github/followers/comic-code?label=follow&style=social)
 
 I'm Fábio and this is some things about me.
 
